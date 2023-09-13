@@ -1,0 +1,66 @@
+{
+  "id" : "https://elshand12.github.io/Whales/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in elshand12/Whales project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 4898,
+    "id" : "https://elshand12.github.io/Whales/images/DSC02052/canvas/",
+    "label" : {
+      "none" : [ "DSC02052" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://elshand12.github.io/Whales/images/DSC02052/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://elshand12.github.io/Whales/images/DSC02052/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 154,
+              "height" : 103
+            }, {
+              "width" : 307,
+              "height" : 205
+            }, {
+              "width" : 613,
+              "height" : 409
+            }, {
+              "width" : 1225,
+              "height" : 817
+            }, {
+              "width" : 2449,
+              "height" : 1633
+            }, {
+              "width" : 4898,
+              "height" : 3265
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 4898,
+            "@id" : "https://elshand12.github.io/Whales/images/DSC02052",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3265
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4898,
+          "id" : "https://elshand12.github.io/Whales/images/DSC02052/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3265
+        },
+        "target" : "https://elshand12.github.io/Whales/images/DSC02052/canvas/"
+      } ]
+    } ],
+    "height" : 3265
+  } ]
+}
