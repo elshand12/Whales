@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 154,
+    "height" : 103
+  }, {
+    "width" : 307,
+    "height" : 205
+  }, {
+    "width" : 613,
+    "height" : 409
+  }, {
+    "width" : 1225,
+    "height" : 817
+  }, {
+    "width" : 2449,
+    "height" : 1633
+  }, {
+    "width" : 4898,
+    "height" : 3266
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4898,
+  "@id" : "https://elshand12.github.io/Whales/images/DSC02111",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3266
+}
