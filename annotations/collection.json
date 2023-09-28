@@ -1,6 +1,7 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://elshand12.github.io/Whales/annotations/009793db429414c4f18a5bedd32134fe.json" ],
+  "otherContent" : [ "https://elshand12.github.io/Whales/annotations/009793db429414c4f18a5bedd32134fe.json",
+  "https://elshand12.github.io/Whales/annotations/eb74ec1b2fa9bb786570599ea78dc6f1.json"],
   "@id" : "https://elshand12.github.io/Whales/annotations/collection.json",
   "label" : "All annotations loaded in elshand12/Whales project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
