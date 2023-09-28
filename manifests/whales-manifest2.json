@@ -1,0 +1,231 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://elshand12.github.io/Whales/manifests/whales-manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "A humpback whale in Tahiti, Moorea",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Photographs of a humpback whale that Liz swam with in Moorea, Tahiti.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "eupalee",
+  "sequences" : [ {
+    "@id" : "http://455bef0b-7c3b-47e1-8906-0ad9880e0a2c",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://6df52547-ceea-4fc5-8b39-b7f12cdbc097",
+      "@type" : "sc:Canvas",
+      "label" : "Whale 1",
+      "height" : 3265,
+      "width" : 4898,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f238198f-d160-448a-9d09-aeac52600f52",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dsc-02052_202309/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dsc-02052_202309",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3265,
+          "width" : 4898
+        },
+        "on" : "http://6df52547-ceea-4fc5-8b39-b7f12cdbc097"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f1a87f31-00ab-4c58-ba6b-8733e3935797",
+      "@type" : "sc:Canvas",
+      "label" : "Whale 2",
+      "height" : 3625,
+      "width" : 4898,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f9e3a9bd-6f6e-450a-8006-f7df86ce5e62",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dsc-02085/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dsc-02085",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3625,
+          "width" : 4898
+        },
+        "on" : "http://f1a87f31-00ab-4c58-ba6b-8733e3935797"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2e9d0446-718f-4650-b31a-e4d350552c93",
+      "@type" : "sc:Canvas",
+      "label" : "Whale 3",
+      "height" : 3265,
+      "width" : 4898,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8f745b82-a18d-4db3-a8e6-0b298ed567fd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dsc-02086/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dsc-02086",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3265,
+          "width" : 4898
+        },
+        "on" : "http://2e9d0446-718f-4650-b31a-e4d350552c93"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6b0904ad-7ac5-48d6-873c-b129daa97969",
+      "@type" : "sc:Canvas",
+      "label" : "Whale 4",
+      "height" : 3265,
+      "width" : 4898,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1a321d32-fd56-4e0b-8a3d-a9d9a8ae1729",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dsc-02092/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dsc-02092",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3265,
+          "width" : 4898
+        },
+        "on" : "http://6b0904ad-7ac5-48d6-873c-b129daa97969"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://adac2abe-992b-42bd-81eb-491a9e63d62b",
+      "@type" : "sc:Canvas",
+      "label" : "Whale 5",
+      "height" : 3266,
+      "width" : 4898,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://413bd4c7-7525-40ae-8bd7-79b6a5379e12",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dsc-02111/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dsc-02111",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3266,
+          "width" : 4898
+        },
+        "on" : "http://adac2abe-992b-42bd-81eb-491a9e63d62b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://79144e5a-0130-4c51-8460-0437b0fd4f7d",
+      "@type" : "sc:Canvas",
+      "label" : "Whale 6",
+      "height" : 3265,
+      "width" : 4898,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://90a19bbe-29e1-41f0-9246-6ea0c7ab4784",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dsc-02122-original/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dsc-02122-original",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3265,
+          "width" : 4898
+        },
+        "on" : "http://79144e5a-0130-4c51-8460-0437b0fd4f7d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://12a7f73e-723f-41b4-aa85-776f3da46b19",
+      "@type" : "sc:Canvas",
+      "label" : "Whale 7",
+      "height" : 3265,
+      "width" : 4898,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5437dfed-ea84-4a1a-9d08-db5ea93189d0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dsc-02123/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dsc-02123",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3265,
+          "width" : 4898
+        },
+        "on" : "http://12a7f73e-723f-41b4-aa85-776f3da46b19"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ef810d4f-d194-4b35-8b81-6a9d096c9e93",
+      "@type" : "sc:Canvas",
+      "label" : "Whale 8",
+      "height" : 3265,
+      "width" : 4898,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6b4eb3cb-b5b5-4727-8afa-2ff155fcdc97",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dsc-02131-original/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dsc-02131-original",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3265,
+          "width" : 4898
+        },
+        "on" : "http://ef810d4f-d194-4b35-8b81-6a9d096c9e93"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
