@@ -1,0 +1,13 @@
+{
+  "id" : "https://elshand12.github.io/Whales/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in elshand12/Whales project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://elshand12.github.io/Whales/manifests/whales-manifest2.json",
+    "label" : "A humpback whale in Tahiti, Moorea"
+  } ]
+}
