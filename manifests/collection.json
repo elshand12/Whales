@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://elshand12.github.io/Whales/manifests/whales-manifest2.json",
     "label" : "A humpback whale in Tahiti, Moorea"
+  }, {
+    "@type" : null,
+    "@id" : null,
+    "label" : null
   } ]
 }
